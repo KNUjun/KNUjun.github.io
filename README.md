@@ -1,2 +1,2 @@
 # KNUjun.github.io
-itroduction myself
+자기소개페이지
